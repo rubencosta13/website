@@ -8,7 +8,11 @@ enableEmoji = true
 [pagination]
 pagerSize = 6
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
+    
 [markup]
 [markup.highlight]
 noClasses = false
