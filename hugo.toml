@@ -164,7 +164,7 @@ url = "https://www.linkedin.com/in/ruben-costa-3733b21a4/"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Ersmus"
 weight = 1
 url = "erasmus/"
 
