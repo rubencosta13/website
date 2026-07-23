@@ -1,19 +1,16 @@
-{{- $dir := strings.TrimPrefix (.Get "dir") "/" -}}
+{{- $dir := .Get "dir" | strings.TrimPrefix "/" -}}
 {{- $images := readDir (printf "static/%s" $dir) -}}
 
 <div class="carousel">
     <div class="carousel-track">
         {{ range sort $images "Name" }}
             {{ if not .IsDir }}
-                {{ $ext := lower (path.Ext .Name) }}
-                {{ if or (eq $ext ".jpg") (eq $ext ".jpeg") (eq $ext ".png") (eq $ext ".webp") (eq $ext ".avif") }}
-                    <div class="carousel-slide">
-                        <img
-                            src="{{ printf "%s/%s" $dir .Name | relURL }}"
-                            loading="lazy"
-                            alt="">
-                    </div>
-                {{ end }}
+                <div class="carousel-slide">
+                    <img
+                        src="{{ printf "%s/%s" $dir .Name | relURL }}"
+                        loading="lazy"
+                        alt="{{ .Name }}">
+                </div>
             {{ end }}
         {{ end }}
     </div>

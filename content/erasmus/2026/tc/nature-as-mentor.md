@@ -22,7 +22,7 @@ tags:
 {{< erasmus-project-meta >}}
 
 <figure>
-  <img src="images/erasmus/poland-2026/nature-as-a-mentor-cover.jpeg"
+  <img src="{{ "images/erasmus/poland-2026/nature-as-a-mentor-cover.jpeg" | relURL }}"
        alt="Participants during the Nature as a Mentor training course">
  
 </figure>
