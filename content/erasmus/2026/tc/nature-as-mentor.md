@@ -94,7 +94,7 @@ Working alongside participants from different European countries created a valua
 
 Here are a few images and content from this training course
 
-{{< carousel dir="images/erasmus/poland-2026" >}}
+{{< carousel dir="/images/erasmus/poland-2026" >}}
 
 > <i class="fa-solid fa-earth-europe"></i> **Erasmus+ Training Course**  
 > <i class="fa-solid fa-location-dot"></i> **Dobczyce, Poland · 12-19 July 2026**

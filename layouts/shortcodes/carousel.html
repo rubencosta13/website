@@ -1,5 +1,5 @@
-{{- $dir := .Get "dir" -}}
-{{- $images := readDir (printf "static%s" $dir) -}}
+{{- $dir := strings.TrimPrefix (.Get "dir") "/" -}}
+{{- $images := readDir (printf "static/%s" $dir) -}}
 
 <div class="carousel">
     <div class="carousel-track">
