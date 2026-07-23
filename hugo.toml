@@ -1,5 +1,6 @@
 baseURL = "https://rubencosta13.github.io/website/"
 canonifyURLs = false
+relativeURLs = false
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Ruben Costa"
