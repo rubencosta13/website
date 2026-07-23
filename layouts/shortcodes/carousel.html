@@ -1,0 +1,30 @@
+{{- $dir := .Get "dir" -}}
+{{- $images := readDir (printf "static%s" $dir) -}}
+
+<div class="carousel">
+    <div class="carousel-track">
+        {{ range sort $images "Name" }}
+            {{ if not .IsDir }}
+                {{ $ext := lower (path.Ext .Name) }}
+                {{ if or (eq $ext ".jpg") (eq $ext ".jpeg") (eq $ext ".png") (eq $ext ".webp") (eq $ext ".avif") }}
+                    <div class="carousel-slide">
+                        <img
+                            src="{{ printf "%s/%s" $dir .Name }}"
+                            loading="lazy"
+                            alt="">
+                    </div>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </div>
+
+    <button class="carousel-btn prev" aria-label="Previous image">
+        &#10094;
+    </button>
+
+    <button class="carousel-btn next" aria-label="Next image">
+        &#10095;
+    </button>
+
+    <div class="carousel-dots"></div>
+</div>

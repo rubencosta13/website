@@ -10430,7 +10430,7 @@ iframe[src*="disqus"] {
 
 a {
   font-weight: 500;
-  color: #1565c0;
+  color: #2563eb;
   text-decoration: none;
   transition: all 0.25s ease-in; }
   a:focus, a:hover {
@@ -10449,7 +10449,7 @@ h5,
 h6 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-weight: 600;
-  color: #000;
+  color: #111827;
   margin: 4rem 0 2.5rem 0; }
   h1:hover .heading-link,
   h2:hover .heading-link,
@@ -10464,7 +10464,7 @@ h6 {
   h4 .heading-link,
   h5 .heading-link,
   h6 .heading-link {
-    color: #1565c0;
+    color: #2563eb;
     font-weight: inherit;
     text-decoration: none;
     font-size: 80%;
@@ -10553,13 +10553,13 @@ code {
   font-weight: 400;
   border-radius: 0.6rem;
   padding: 0.3rem 0.6rem;
-  background-color: #ccc;
+  background-color: #d1d5db;
   color: #212121; }
   @media only screen and (max-width: 768px) {
     code {
       font-size: 1.5rem; } }
 blockquote {
-  border-left: 2px solid #e0e0e0;
+  border-left: 2px solid #e5e7eb;
   padding-left: 2rem;
   line-height: 2.2rem;
   font-weight: 400;
@@ -10577,7 +10577,7 @@ table {
 
 table td,
 table th {
-  border: 2px solid #000; }
+  border: 2px solid #111827; }
 
 table tr:first-child th {
   border-top: 0; }
@@ -10692,7 +10692,7 @@ figure {
   .content .post .post-meta .tags .tag {
     display: inline-block;
     padding: 0.3rem 0.6rem;
-    background-color: #e0e0e0;
+    background-color: #e5e7eb;
     border-radius: 0.6rem;
     line-height: 1.5em; }
     .content .post .post-meta .tags .tag a {
@@ -10741,7 +10741,7 @@ figure {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
-        color: #1565c0; }
+        color: #2563eb; }
 
 @media only screen and (min-width: 768.1px) {
   .list ul:not(.pagination) li {
@@ -10778,7 +10778,7 @@ figure {
           margin-right: 1rem;
           font-size: 1.6rem; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #1565c0; }
+            color: #2563eb; }
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.5rem; } }
@@ -10820,53 +10820,53 @@ figure {
     margin: 2rem 2rem; }
 
 .notice.note {
-  background-color: #7e57c21a; }
+  background-color: rgba(124, 58, 237, 0.06); }
   .notice.note .notice-title {
-    background-color: #673ab71a; }
+    background-color: rgba(124, 58, 237, 0.1); }
     .notice.note .notice-title i {
-      color: #5e35b1; }
+      color: #7c3aed; }
 
 .notice.tip {
-  background-color: #26a69a1a; }
+  background-color: rgba(249, 115, 22, 0.06); }
   .notice.tip .notice-title {
-    background-color: #0096881a; }
+    background-color: rgba(249, 115, 22, 0.1); }
     .notice.tip .notice-title i {
-      color: #00897b; }
+      color: #f97316; }
 
 .notice.example {
-  background-color: #8d6e631a; }
+  background-color: rgba(71, 85, 105, 0.06); }
   .notice.example .notice-title {
-    background-color: #7955481a; }
+    background-color: rgba(71, 85, 105, 0.1); }
     .notice.example .notice-title i {
-      color: #6d4c41; }
+      color: #475569; }
 
 .notice.question {
-  background-color: #9ccc651a; }
+  background-color: rgba(8, 145, 178, 0.06); }
   .notice.question .notice-title {
-    background-color: #8bc34a1a; }
+    background-color: rgba(8, 145, 178, 0.1); }
     .notice.question .notice-title i {
-      color: #7cb342; }
+      color: #0891b2; }
 
 .notice.info {
-  background-color: #42a5f51a; }
+  background-color: rgba(37, 99, 235, 0.06); }
   .notice.info .notice-title {
-    background-color: #2196f31a; }
+    background-color: rgba(37, 99, 235, 0.1); }
     .notice.info .notice-title i {
-      color: #1e88e5; }
+      color: #2563eb; }
 
 .notice.warning {
-  background-color: #ffca281a; }
+  background-color: rgba(245, 158, 11, 0.06); }
   .notice.warning .notice-title {
-    background-color: #ffc1071a; }
+    background-color: rgba(245, 158, 11, 0.1); }
     .notice.warning .notice-title i {
-      color: #ffb300; }
+      color: #f59e0b; }
 
 .notice.error {
-  background-color: #ef53501a; }
+  background-color: rgba(220, 38, 38, 0.06); }
   .notice.error .notice-title {
-    background-color: #f443361a; }
+    background-color: rgba(220, 38, 38, 0.1); }
     .notice.error .notice-title i {
-      color: #e53935; }
+      color: #dc2626; }
 
 .navigation {
   height: 6rem;
@@ -10879,7 +10879,7 @@ figure {
     font-weight: 600;
     color: #212121; }
   .navigation a:hover, .navigation a:focus {
-    color: #1565c0; }
+    color: #2563eb; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
     text-transform: uppercase; }
@@ -10900,8 +10900,8 @@ figure {
         max-height: 0;
         width: 100%;
         background-color: #fafafa;
-        border-top: solid 2px #e0e0e0;
-        border-bottom: solid 2px #e0e0e0;
+        border-top: solid 2px #e5e7eb;
+        border-bottom: solid 2px #e5e7eb;
         transition: opacity 0.25s, max-height 0.15s linear; } }
     .navigation .navigation-list .navigation-item {
       float: left;
@@ -10943,7 +10943,7 @@ figure {
         position: relative;
         visibility: hidden; }
         .navigation #menu-toggle:checked + label > i {
-          color: #e0e0e0; }
+          color: #e5e7eb; }
         .navigation #menu-toggle:checked + label + ul {
           visibility: visible;
           opacity: 1;
@@ -10959,12 +10959,12 @@ figure {
         font-size: 2.4rem;
         font-weight: 400; } }
     .navigation .menu-button i:hover, .navigation .menu-button i:focus {
-      color: #000; }
+      color: #111827; }
   .navigation i {
     color: #212121;
     cursor: pointer; }
     .navigation i:hover, .navigation i:focus {
-      color: #1565c0; }
+      color: #2563eb; }
 
 .pagination {
   display: flex;
@@ -11002,8 +11002,8 @@ figure {
   .tabs input.tab-input {
     display: none; }
   .tabs label.tab-label {
-    background-color: #e0e0e0;
-    border-color: #ccc;
+    background-color: #e5e7eb;
+    border-color: #d1d5db;
     border-radius: 4px 4px 0px 0px;
     border-style: solid;
     border-bottom-style: hidden;
@@ -11019,7 +11019,7 @@ figure {
     background-color: #fafafa; }
   .tabs .tab-content {
     background-color: #fafafa;
-    border-color: #ccc;
+    border-color: #d1d5db;
     border-style: solid;
     border-width: 1px;
     display: none;
@@ -11038,7 +11038,7 @@ figure {
 .taxonomy .taxonomy-element {
   display: block;
   padding: 0.3rem 0.9rem;
-  background-color: #e0e0e0;
+  background-color: #e5e7eb;
   border-radius: 0.6rem; }
   .taxonomy .taxonomy-element a {
     color: #212121; }
@@ -11055,7 +11055,7 @@ figure {
     .footer {
       font-size: 1.5rem; } }
   .footer a {
-    color: #1565c0; }
+    color: #2563eb; }
 
 .float-container {
   bottom: 2rem;
@@ -11069,17 +11069,17 @@ figure {
     width: 3rem;
     height: 3rem;
     font-size: 2rem;
-    color: #000;
-    background-color: #e0e0e0;
+    color: #111827;
+    background-color: #e5e7eb;
     border-radius: 0.2rem;
     opacity: 0.5;
     transition: all 0.25s ease-in; }
     .float-container a:hover, .float-container a:focus {
-      color: #1565c0;
+      color: #2563eb;
       opacity: 1; }
       @media only screen and (max-width: 768px) {
         .float-container a:hover, .float-container a:focus {
-          color: #000;
+          color: #111827;
           opacity: 0.5; } }
     .float-container a i {
       position: absolute;
@@ -11494,5 +11494,92 @@ figure {
 /* TextWhitespace */
 .chroma .w {
   color: #bbbbbb; }
+
+/* ---------- Brand Colors ---------- */
+/* ---------- Links ---------- */
+a {
+  transition: color .2s ease; }
+
+a:hover {
+  color: #f97316; }
+
+/* ---------- Navigation ---------- */
+.navigation {
+  border-bottom: 1px solid rgba(127, 127, 127, 0.15);
+  backdrop-filter: blur(10px); }
+
+.navigation-title {
+  font-weight: 700; }
+
+.navigation-list .navigation-item a {
+  transition: color .2s ease; }
+
+.navigation-list .navigation-item a:hover,
+.navigation-list .navigation-item a.active {
+  color: #2563eb; }
+
+/* ---------- Headings ---------- */
+h1,
+h2,
+h3 {
+  font-weight: 700; }
+
+h2 {
+  border-bottom: 1px solid rgba(127, 127, 127, 0.15);
+  padding-bottom: .35rem;
+  margin-top: 2.5rem; }
+
+/* ---------- Buttons ---------- */
+.button,
+.btn {
+  background: #2563eb;
+  color: white;
+  border-radius: 10px;
+  transition: .2s; }
+
+.button:hover,
+.btn:hover {
+  background: #1d4ed8; }
+
+/* ---------- Tags ---------- */
+.taxonomy-element,
+.tag,
+.chip {
+  border-radius: 999px;
+  padding: .25rem .75rem;
+  background: rgba(37, 99, 235, 0.08);
+  color: #2563eb; }
+
+/* ---------- Blockquotes ---------- */
+blockquote {
+  border-left: 4px solid #2563eb;
+  background: rgba(37, 99, 235, 0.05);
+  padding: 1rem 1.25rem;
+  border-radius: 8px; }
+
+/* ---------- Code ---------- */
+pre {
+  border-radius: 12px; }
+
+code {
+  border-radius: 6px; }
+
+/* ---------- Tables ---------- */
+table {
+  border-radius: 12px;
+  overflow: hidden; }
+
+/* ---------- Images ---------- */
+img {
+  border-radius: 12px; }
+
+/* ---------- Selection ---------- */
+::selection {
+  background: #2563eb;
+  color: white; }
+
+/* ---------- Smooth ---------- */
+* {
+  transition: background-color .2s ease, color .2s ease, border-color .2s ease; }
 
 /*# sourceMappingURL=coder.css.map */

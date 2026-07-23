@@ -1,0 +1,15 @@
+<section>
+  <h2>📝 Latest Posts</h2>
+
+  {{ range first 3 (where site.RegularPages "Section" "posts") }}
+
+  <article>
+    <h3>
+      <a href="{{ .RelPermalink }}"> {{ .Title }} </a>
+    </h3>
+
+    <p>{{ .Summary }}</p>
+  </article>
+
+  {{ end }}
+</section>

@@ -1,0 +1,21 @@
+<section>
+  <h2>🌍 Erasmus+</h2>
+
+  <div class="card-grid">
+    {{ range first 3 (where site.RegularPages "Section" "erasmus") }}
+
+    <a class="card" href="{{ .RelPermalink }}">
+      <h3>{{ .Title }}</h3>
+
+      <p>{{ .Params.country }} • {{ .Params.project_type }}</p>
+
+      <p>{{ .Params.start_date }} — {{ .Params.end_date }}</p>
+    </a>
+
+    {{ end }}
+  </div>
+
+  <p>
+    <a href="/erasmus/"> View all experiences → </a>
+  </p>
+</section>

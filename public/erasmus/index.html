@@ -1,241 +1,283 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="auto" data-theme="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <title>Erasmuses · Ruben Costa</title>
-  <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="color-scheme" content="light dark">
-
-
-
-
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Erasmuses | Ruben Costa</title>
+<meta name="keywords" content="">
+<meta name="description" content="Erasmuses - Ruben Costa">
 <meta name="author" content="Ruben Costa">
-<meta name="description" content="Ruben Costa&#39;s personal website">
-<meta name="keywords" content="blog,developer,personal">
-
-
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Erasmuses">
-  <meta name="twitter:description" content="Ruben Costa&#39;s personal website">
-
-<meta property="og:url" content="http://localhost:1313/erasmus/">
-  <meta property="og:site_name" content="Ruben Costa">
-  <meta property="og:title" content="Erasmuses">
-  <meta property="og:description" content="Ruben Costa&#39;s personal website">
-  <meta property="og:locale" content="en">
-  <meta property="og:type" content="website">
-
-
-
-
 <link rel="canonical" href="http://localhost:1313/erasmus/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.8e12bcf91f5123e2adfb1bfd16fbfea36833c8e1f5deec568542603dbe21a046.css" integrity="sha256-jhK8&#43;R9RI&#43;Kt&#43;xv9Fvv&#43;o2gzyOH13uxWhUJgPb4hoEY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/erasmus/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/erasmus/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
 
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
 
-<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+            .list {
+                background: var(--theme);
+            }
 
+            .toc {
+                background: var(--entry);
+            }
+        }
 
-  
-  
-  <link rel="stylesheet" href="/css/coder.css" media="screen">
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
 
-
-
-
-
-
-  
-    
-    
-    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
-  
-
-
-
- 
-
-
-
-
-<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
-<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
-
-<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
-
-
-<link rel="alternate" type="application/rss+xml" href="/erasmus/index.xml" title="Ruben Costa" />
-
-
-
-
-
-
-
+</script><link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+  integrity="sha512-..."
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+<link rel="stylesheet" href="/css/carousel.css" />
 
 </head>
-
-
-
-
-
-
-<body class="preload-transitions colorscheme-auto">
-  
-<div class="float-container">
-    <a id="dark-mode-toggle" class="colorscheme-toggle">
-        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
-    </a>
-</div>
-
-
-  <main class="wrapper">
-    <nav class="navigation">
-  <section class="container">
-    
-    <a class="navigation-title" href="http://localhost:1313/">
-      Ruben Costa
-    </a>
-    
-    
-      <input type="checkbox" id="menu-toggle" />
-      <label class="menu-button float-right" for="menu-toggle">
-        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
-      </label>
-      <ul class="navigation-list">
-        
-          
-            <li class="navigation-item">
-              <a class="navigation-link " href="/erasmus/">About</a>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Ruben Costa (Alt + H)">Ruben Costa</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/erasmus/" title="Erasmus">
+                    <span class="active">Erasmus</span>
+                </a>
             </li>
-          
-            <li class="navigation-item">
-              <a class="navigation-link " href="/posts/">Blog</a>
+            <li>
+                <a href="http://localhost:1313/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
             </li>
-          
-            <li class="navigation-item">
-              <a class="navigation-link " href="/projects/">Projects</a>
-            </li>
-          
-            <li class="navigation-item">
-              <a class="navigation-link " href="/contact/">Contact me</a>
-            </li>
-          
-        
-        
-      </ul>
-    
-  </section>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header"><nav class="breadcrumbs" role="navigation" aria-label="Breadcrumb">
+            <a href="/">Home</a>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+        <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
 </nav>
+  <h1>
+    Erasmuses
+  </h1>
+</header>
 
-
-    <div class="content">
-      
-  <section class="container list">
-  <header>
-    <h1 class="title">
-      <a class="title-link" href="http://localhost:1313/erasmus/">Erasmuses</a>
-    </h1>
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Nature as a Mentor: Shinrin-yoku in Youth Work Practices
+    </h2>
   </header>
-  
-  <ul>
+  <div class="entry-content">
+    <p>   Training Course (TC)   Dobczyce, Poland  12 July 2026 - 19 July 2026  Organized by Fundacja Innowacyjnej Edukacji About Nature as a Mentor: Shinrin-yoku in Youth Work Practices was an Erasmus&#43; Training Course designed for youth workers and educators interested in integrating nature-based methods into their work with young people.
+The project focused on Shinrin-yoku (Forest Bathing) and other holistic outdoor approaches that promote well-being, resilience, inclusion, and self-awareness. Through non-formal education, participants explored how nature can become a practical educational tool to support young people in dealing with stress, uncertainty, and the increasing pace of modern life.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2026-07-19 00:00:00 +0000 UTC'>July 19, 2026</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>391 words</span>&nbsp;·&nbsp;<span>Ruben Costa</span></footer>
+  <a class="entry-link" aria-label="post link to Nature as a Mentor: Shinrin-yoku in Youth Work Practices" href="http://localhost:1313/erasmus/2026/tc/nature-as-mentor/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Youth Accreditation Mobility
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>   Youth Exchange (YE)   Sakarya, Türkiye  28 March 2026 - 5 April 2026  Organized by International consortium of Erasmus&#43; accredited organizations About This Erasmus&#43; youth mobility brought together participants from seven European countries to foster active citizenship, leadership, and intercultural understanding through non-formal education and collaborative learning.
+The project provided an opportunity to exchange perspectives with young people from different backgrounds while exploring topics such as digital competences, entrepreneurship, sustainability, and European values.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2026-03-28 00:00:00 +0000 UTC'>March 28, 2026</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>207 words</span>&nbsp;·&nbsp;<span>Ruben Costa</span></footer>
+  <a class="entry-link" aria-label="post link to Youth Accreditation Mobility" href="http://localhost:1313/erasmus/2026/ye/youth-accreditation-mobility/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Green Horizons: Youth for Sustainable Communities
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>   Youth Exchange (YE)   La Zarza de Pumareda, Salamanca, Spain  13 July 2025 - 19 July 2025  Organized by Fundación Plan B Educación Social About Green Horizons: Youth for Sustainable Communities was an Erasmus&#43; Youth Exchange that brought together young people from different European countries to explore sustainability, climate action, and active participation through non-formal education and intercultural learning.
+Set in rural Spain, the project provided an opportunity to exchange ideas, collaborate with participants from diverse backgrounds, and reflect on the role young people can play in creating more sustainable communities.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2025-07-13 00:00:00 +0000 UTC'>July 13, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>211 words</span>&nbsp;·&nbsp;<span>Ruben Costa</span></footer>
+  <a class="entry-link" aria-label="post link to Green Horizons: Youth for Sustainable Communities" href="http://localhost:1313/erasmus/2025/ye/green-horizons/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Youth Participa(c)tion
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>   Training Course (TC)   Breaza, Romania  1 July 2026 - 8 July 2026  Organized by A.C.T.O.R. – Asociatia Culturala pentru Teatru si Origami din Romania About Youth Participa(c)tion was an Erasmus&#43; Training Course that brought together youth workers and active young people from different countries to explore ways of strengthening youth participation in democratic life and society.
+Through non-formal education methods, group activities, and intercultural exchange, participants shared experiences and developed tools to encourage active citizenship and meaningful participation among young people.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2025-07-01 00:00:00 +0000 UTC'>July 1, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>207 words</span>&nbsp;·&nbsp;<span>Ruben Costa</span></footer>
+  <a class="entry-link" aria-label="post link to Youth Participa(c)tion" href="http://localhost:1313/erasmus/2025/tc/youth-participaction/"></a>
+</article>
+    </main>
     
-    <li>
-      <span class="date">March 28, 2026</span>
-      <a class="title" href="/erasmus/2026/youth-accreditation-mobility/">Youth Accreditation Mobility – Erasmus&#43; KA150-YOU</a>
-    </li>
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">Ruben Costa</a></span> · 
+
     
-    <li>
-      <span class="date">July 13, 2025</span>
-      <a class="title" href="/erasmus/2025/green-horizons/">Green Horizons: Youth for Sustainable Communities</a>
-    </li>
     
-    <li>
-      <span class="date">July 1, 2025</span>
-      <a class="title" href="/erasmus/2025/youth-participaction/">Youth Participa(c)tion</a>
-    </li>
-    
-  </ul>
-  
-
-
-
-
-
-
-</section>
-
-
-    </div>
-
-    <footer class="footer">
-  <section class="container">
-    ©
-    
-    2026
-     Ruben Costa 
-    ·
-    
-    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
-    
-  </section>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
 </footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a><script src="/js/carousel.js"></script>
 
-  </main>
 
-  
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
 
-  
-  
-  <script src="/js/coder.js"></script>
-  
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
 
-  
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
 
-  
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+</script>
 </body>
 
 </html>

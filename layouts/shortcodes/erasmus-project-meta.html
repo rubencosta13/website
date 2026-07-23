@@ -1,0 +1,24 @@
+<div class="project-meta">
+  &nbsp; {{ with .Page.Params.project_type }}
+  <div>
+    <i class="fa-solid fa-graduation-cap"></i>
+    {{ . }}
+  </div>
+  {{ end }} {{ if and .Page.Params.city .Page.Params.country }}
+  <div>
+    <i class="fa-solid fa-location-dot"></i>
+    &nbsp; {{ .Page.Params.city }}, {{ .Page.Params.country }}
+  </div>
+  {{ end }} {{ with .Page.Params.start_date }}
+  <div>
+    <i class="fa-regular fa-calendar"></i>
+    &nbsp;{{ . | time.Format "2 January 2006" }} {{ with $.Page.Params.end_date
+    }} - {{ . | time.Format "2 January 2006" }} {{ end }}
+  </div>
+  {{ end }} {{ with .Page.Params.organizer }}
+  <div>
+    <i class="fa-solid fa-building-columns"></i>
+    &nbsp;Organized by <strong>{{ . }}</strong>
+  </div>
+  {{ end }}
+</div>

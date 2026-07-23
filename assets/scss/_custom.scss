@@ -1,0 +1,124 @@
+/* ---------- Brand Colors ---------- */
+
+$blue: #2563eb;
+$blue-hover: #1d4ed8;
+$orange: #f97316;
+$red: #dc2626;
+
+/* ---------- Links ---------- */
+
+a {
+    transition: color .2s ease;
+}
+
+a:hover {
+    color: $orange;
+}
+
+/* ---------- Navigation ---------- */
+
+.navigation {
+    border-bottom: 1px solid rgba(127, 127, 127, .15);
+    backdrop-filter: blur(10px);
+}
+
+.navigation-title {
+    font-weight: 700;
+}
+
+.navigation-list .navigation-item a {
+    transition: color .2s ease;
+}
+
+.navigation-list .navigation-item a:hover,
+.navigation-list .navigation-item a.active {
+    color: $blue;
+}
+
+/* ---------- Headings ---------- */
+
+h1,
+h2,
+h3 {
+    font-weight: 700;
+}
+
+h2 {
+    border-bottom: 1px solid rgba(127, 127, 127, .15);
+    padding-bottom: .35rem;
+    margin-top: 2.5rem;
+}
+
+/* ---------- Buttons ---------- */
+
+.button,
+.btn {
+    background: $blue;
+    color: white;
+    border-radius: 10px;
+    transition: .2s;
+}
+
+.button:hover,
+.btn:hover {
+    background: $blue-hover;
+}
+
+/* ---------- Tags ---------- */
+
+.taxonomy-element,
+.tag,
+.chip {
+    border-radius: 999px;
+    padding: .25rem .75rem;
+    background: rgba(37, 99, 235, .08);
+    color: $blue;
+}
+
+/* ---------- Blockquotes ---------- */
+
+blockquote {
+    border-left: 4px solid $blue;
+    background: rgba(37, 99, 235, .05);
+    padding: 1rem 1.25rem;
+    border-radius: 8px;
+}
+
+/* ---------- Code ---------- */
+
+pre {
+    border-radius: 12px;
+}
+
+code {
+    border-radius: 6px;
+}
+
+/* ---------- Tables ---------- */
+
+table {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+/* ---------- Images ---------- */
+
+img {
+    border-radius: 12px;
+}
+
+/* ---------- Selection ---------- */
+
+::selection {
+    background: $blue;
+    color: white;
+}
+
+/* ---------- Smooth ---------- */
+
+* {
+    transition:
+        background-color .2s ease,
+        color .2s ease,
+        border-color .2s ease;
+}

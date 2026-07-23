@@ -1,47 +1,155 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ruben Costa</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Ruben Costa</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:41:29 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I deployed this website</title>
-      <link>http://localhost:1313/posts/deploy-hugo-website/</link>
-      <pubDate>Mon, 27 Apr 2026 16:41:29 +0100</pubDate>
-      <guid>http://localhost:1313/posts/deploy-hugo-website/</guid>
-      <description>&lt;h1 id=&#34;hello&#34;&gt;&#xA;  Hello&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hello&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+      <title>TheCrowDBot - AI to transform hand drawn E-R diagrams into a draw.io compatible format</title>
+      <link>http://localhost:1313/projects/thecrowdbot/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/thecrowdbot/</guid>
+      <description>&lt;p&gt;TBD&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 27 Apr 2026 15:41:32 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>Nature as a Mentor: Shinrin-yoku in Youth Work Practices</title>
+      <link>http://localhost:1313/erasmus/2026/tc/nature-as-mentor/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/erasmus/2026/tc/nature-as-mentor/</guid>
+      <description>&lt;div class=&#34;project-meta&#34;&gt;
+  &amp;nbsp; 
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-graduation-cap&#34;&gt;&lt;/i&gt;
+    Training Course (TC)
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-location-dot&#34;&gt;&lt;/i&gt;
+    &amp;nbsp; Dobczyce, Poland
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-regular fa-calendar&#34;&gt;&lt;/i&gt;
+    &amp;nbsp;12 July 2026  - 19 July 2026 
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-building-columns&#34;&gt;&lt;/i&gt;
+    &amp;nbsp;Organized by &lt;strong&gt;Fundacja Innowacyjnej Edukacji&lt;/strong&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;http://localhost:1313/images/erasmus/poland-2026/nature-as-a-mentor-cover.jpeg&#34;
+       alt=&#34;Participants during the Nature as a Mentor training course&#34;&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;about&#34;&gt;&lt;i class=&#34;fa-solid fa-circle-info&#34;&gt;&lt;/i&gt;  About&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Nature as a Mentor: Shinrin-yoku in Youth Work Practices&lt;/em&gt; was an Erasmus+ Training Course designed for youth workers and educators interested in integrating nature-based methods into their work with young people.&lt;/p&gt;
+&lt;p&gt;The project focused on &lt;a href=&#34;https://en.wikipedia.org/wiki/Shinrin-yoku&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Shinrin-yoku (Forest Bathing)&lt;/strong&gt;&lt;/a&gt; and other holistic outdoor approaches that promote well-being, resilience, inclusion, and self-awareness. Through non-formal education, participants explored how nature can become a practical educational tool to support young people in dealing with stress, uncertainty, and the increasing pace of modern life.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Youth Accreditation Mobility – Erasmus&#43; KA150-YOU</title>
-      <link>http://localhost:1313/erasmus/2026/youth-accreditation-mobility/</link>
+      <title>Youth Accreditation Mobility</title>
+      <link>http://localhost:1313/erasmus/2026/ye/youth-accreditation-mobility/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/erasmus/2026/youth-accreditation-mobility/</guid>
-      <description>&lt;h1 id=&#34;youth-accreditation-mobility--erasmus-ka150-you-&#34;&gt;&#xA;  Youth Accreditation Mobility – Erasmus+ KA150-YOU 🇹🇷&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#youth-accreditation-mobility--erasmus-ka150-you-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Youth Exchange (YE)&lt;/strong&gt;&lt;br&gt;&#xA;📍 Sakarya, Türkiye&lt;br&gt;&#xA;📅 28 March – 5 April 2026&lt;/p&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;&#xA;  About&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This Erasmus+ youth mobility brought together participants from seven European countries to foster active citizenship, leadership, and intercultural understanding through non-formal education and collaborative learning.&lt;/p&gt;&#xA;&lt;p&gt;The project provided an opportunity to exchange perspectives with young people from different backgrounds while exploring topics such as digital competences, entrepreneurship, sustainability, and European values.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/erasmus/2026/ye/youth-accreditation-mobility/</guid>
+      <description>&lt;div class=&#34;project-meta&#34;&gt;
+  &amp;nbsp; 
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-graduation-cap&#34;&gt;&lt;/i&gt;
+    Youth Exchange (YE)
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-location-dot&#34;&gt;&lt;/i&gt;
+    &amp;nbsp; Sakarya, Türkiye
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-regular fa-calendar&#34;&gt;&lt;/i&gt;
+    &amp;nbsp;28 March 2026  - 5 April 2026 
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-building-columns&#34;&gt;&lt;/i&gt;
+    &amp;nbsp;Organized by &lt;strong&gt;International consortium of Erasmus&amp;#43; accredited organizations&lt;/strong&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;This Erasmus+ youth mobility brought together participants from seven European countries to foster active citizenship, leadership, and intercultural understanding through non-formal education and collaborative learning.&lt;/p&gt;
+&lt;p&gt;The project provided an opportunity to exchange perspectives with young people from different backgrounds while exploring topics such as digital competences, entrepreneurship, sustainability, and European values.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Green Horizons: Youth for Sustainable Communities</title>
-      <link>http://localhost:1313/erasmus/2025/green-horizons/</link>
+      <link>http://localhost:1313/erasmus/2025/ye/green-horizons/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/erasmus/2025/green-horizons/</guid>
-      <description>&lt;h1 id=&#34;green-horizons-youth-for-sustainable-communities-&#34;&gt;&#xA;  Green Horizons: Youth for Sustainable Communities 🇪🇸&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#green-horizons-youth-for-sustainable-communities-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Youth Exchange (YE)&lt;/strong&gt;&lt;br&gt;&#xA;📍 La Zarza de Pumareda, Salamanca, Spain&lt;br&gt;&#xA;📅 13–19 July 2025&lt;br&gt;&#xA;🏢 Organized by &lt;strong&gt;Fundación Plan B Educación Social&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;&#xA;  About&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Green Horizons: Youth for Sustainable Communities&lt;/em&gt; was an Erasmus+ Youth Exchange that brought together young people from different European countries to explore sustainability, climate action, and active participation through non-formal education and intercultural learning.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/erasmus/2025/ye/green-horizons/</guid>
+      <description>&lt;div class=&#34;project-meta&#34;&gt;
+  &amp;nbsp; 
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-graduation-cap&#34;&gt;&lt;/i&gt;
+    Youth Exchange (YE)
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-location-dot&#34;&gt;&lt;/i&gt;
+    &amp;nbsp; La Zarza de Pumareda, Salamanca, Spain
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-regular fa-calendar&#34;&gt;&lt;/i&gt;
+    &amp;nbsp;13 July 2025  - 19 July 2025 
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-building-columns&#34;&gt;&lt;/i&gt;
+    &amp;nbsp;Organized by &lt;strong&gt;Fundación Plan B Educación Social&lt;/strong&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Green Horizons: Youth for Sustainable Communities&lt;/em&gt; was an Erasmus+ Youth Exchange that brought together young people from different European countries to explore sustainability, climate action, and active participation through non-formal education and intercultural learning.&lt;/p&gt;
+&lt;p&gt;Set in rural Spain, the project provided an opportunity to exchange ideas, collaborate with participants from diverse backgrounds, and reflect on the role young people can play in creating more sustainable communities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Youth Participa(c)tion</title>
-      <link>http://localhost:1313/erasmus/2025/youth-participaction/</link>
+      <link>http://localhost:1313/erasmus/2025/tc/youth-participaction/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/erasmus/2025/youth-participaction/</guid>
-      <description>&lt;h1 id=&#34;youth-participaction-&#34;&gt;&#xA;  Youth Participa(c)tion 🇷🇴&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#youth-participaction-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Training Course (TC)&lt;/strong&gt;&lt;br&gt;&#xA;📍 Breaza, Romania&lt;br&gt;&#xA;📅 1–8 July 2025&lt;br&gt;&#xA;🏢 Organized by &lt;strong&gt;A.C.T.O.R. – Asociatia Culturala pentru Teatru si Origami din Romania&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;&#xA;  About&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Youth Participa(c)tion&lt;/em&gt; was an Erasmus+ Training Course that brought together youth workers and active young people from different countries to explore ways of strengthening youth participation in democratic life and society.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/erasmus/2025/tc/youth-participaction/</guid>
+      <description>&lt;div class=&#34;project-meta&#34;&gt;
+  &amp;nbsp; 
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-graduation-cap&#34;&gt;&lt;/i&gt;
+    Training Course (TC)
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-location-dot&#34;&gt;&lt;/i&gt;
+    &amp;nbsp; Breaza, Romania
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-regular fa-calendar&#34;&gt;&lt;/i&gt;
+    &amp;nbsp;1 July 2026  - 8 July 2026 
+  &lt;/div&gt;
+   
+  &lt;div&gt;
+    &lt;i class=&#34;fa-solid fa-building-columns&#34;&gt;&lt;/i&gt;
+    &amp;nbsp;Organized by &lt;strong&gt;A.C.T.O.R. – Asociatia Culturala pentru Teatru si Origami din Romania&lt;/strong&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Youth Participa(c)tion&lt;/em&gt; was an Erasmus+ Training Course that brought together youth workers and active young people from different countries to explore ways of strengthening youth participation in democratic life and society.&lt;/p&gt;
+&lt;p&gt;Through non-formal education methods, group activities, and intercultural exchange, participants shared experiences and developed tools to encourage active citizenship and meaningful participation among young people.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
