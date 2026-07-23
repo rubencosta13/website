@@ -9,9 +9,9 @@
                 {{ if or (eq $ext ".jpg") (eq $ext ".jpeg") (eq $ext ".png") (eq $ext ".webp") (eq $ext ".avif") }}
                     <div class="carousel-slide">
                         <img
-    src="{{ printf "%s/%s" $dir .Name | relURL }}"
-    loading="lazy"
-    alt="">
+                            src="{{ printf "%s/%s" $dir .Name | relURL }}"
+                            loading="lazy"
+                            alt="">
                     </div>
                 {{ end }}
             {{ end }}
