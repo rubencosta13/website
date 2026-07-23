@@ -61,7 +61,7 @@ Software Engineer
 
 AI • Computer Vision • OCR • Distributed Systems • Backend Engineering
 """
-imageUrl = "/images/profile.png"
+imageUrl = "images/profile.png"
 imageTitle = "Ruben Costa"
 imageWidth = 220
 imageHeight = 220
