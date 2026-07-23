@@ -21,7 +21,7 @@ tags:
 
 {{< erasmus-project-meta >}}
 
-![Participants during the Nature as a Mentor training course](/images/erasmus/poland-2026/nature-as-a-mentor-cover.jpeg)
+![Participants during the Nature as a Mentor training course](/website/images/erasmus/poland-2026/nature-as-a-mentor-cover.jpeg)
 
 ## <i class="fa-solid fa-circle-info"></i>&nbsp;&nbsp;About
 
