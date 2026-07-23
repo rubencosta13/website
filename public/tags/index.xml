@@ -2,192 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ruben Costa</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/website/tags/</link>
     <description>Recent content in Tags on Ruben Costa</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>http://localhost:1313/website/tags/ai/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://localhost:1313/website/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Crow&#39;s Foot</title>
-      <link>http://localhost:1313/tags/crows-foot/</link>
+      <link>http://localhost:1313/website/tags/crows-foot/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/crows-foot/</guid>
+      <guid>http://localhost:1313/website/tags/crows-foot/</guid>
       <description></description>
     </item>
     <item>
       <title>E-R Diagrams</title>
-      <link>http://localhost:1313/tags/e-r-diagrams/</link>
+      <link>http://localhost:1313/website/tags/e-r-diagrams/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/e-r-diagrams/</guid>
+      <guid>http://localhost:1313/website/tags/e-r-diagrams/</guid>
       <description></description>
     </item>
     <item>
       <title>OCR</title>
-      <link>http://localhost:1313/tags/ocr/</link>
+      <link>http://localhost:1313/website/tags/ocr/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ocr/</guid>
+      <guid>http://localhost:1313/website/tags/ocr/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
+      <link>http://localhost:1313/website/tags/programming/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/programming/</guid>
+      <guid>http://localhost:1313/website/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>http://localhost:1313/website/tags/python/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>http://localhost:1313/website/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Streamlit</title>
-      <link>http://localhost:1313/tags/streamlit/</link>
+      <link>http://localhost:1313/website/tags/streamlit/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/streamlit/</guid>
+      <guid>http://localhost:1313/website/tags/streamlit/</guid>
       <description></description>
     </item>
     <item>
       <title>YOLO</title>
-      <link>http://localhost:1313/tags/yolo/</link>
+      <link>http://localhost:1313/website/tags/yolo/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/yolo/</guid>
+      <guid>http://localhost:1313/website/tags/yolo/</guid>
       <description></description>
     </item>
     <item>
       <title>Erasmus&#43;</title>
-      <link>http://localhost:1313/tags/erasmus&#43;/</link>
+      <link>http://localhost:1313/website/tags/erasmus&#43;/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/erasmus&#43;/</guid>
+      <guid>http://localhost:1313/website/tags/erasmus&#43;/</guid>
       <description></description>
     </item>
     <item>
       <title>Forest Bathing</title>
-      <link>http://localhost:1313/tags/forest-bathing/</link>
+      <link>http://localhost:1313/website/tags/forest-bathing/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/forest-bathing/</guid>
+      <guid>http://localhost:1313/website/tags/forest-bathing/</guid>
       <description></description>
     </item>
     <item>
       <title>Intercultural Learning</title>
-      <link>http://localhost:1313/tags/intercultural-learning/</link>
+      <link>http://localhost:1313/website/tags/intercultural-learning/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/intercultural-learning/</guid>
+      <guid>http://localhost:1313/website/tags/intercultural-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Well-Being</title>
-      <link>http://localhost:1313/tags/mental-well-being/</link>
+      <link>http://localhost:1313/website/tags/mental-well-being/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mental-well-being/</guid>
+      <guid>http://localhost:1313/website/tags/mental-well-being/</guid>
       <description></description>
     </item>
     <item>
       <title>Non-Formal Education</title>
-      <link>http://localhost:1313/tags/non-formal-education/</link>
+      <link>http://localhost:1313/website/tags/non-formal-education/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/non-formal-education/</guid>
+      <guid>http://localhost:1313/website/tags/non-formal-education/</guid>
       <description></description>
     </item>
     <item>
       <title>Outdoor Education</title>
-      <link>http://localhost:1313/tags/outdoor-education/</link>
+      <link>http://localhost:1313/website/tags/outdoor-education/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/outdoor-education/</guid>
+      <guid>http://localhost:1313/website/tags/outdoor-education/</guid>
       <description></description>
     </item>
     <item>
       <title>Shinrin-Yoku</title>
-      <link>http://localhost:1313/tags/shinrin-yoku/</link>
+      <link>http://localhost:1313/website/tags/shinrin-yoku/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/shinrin-yoku/</guid>
+      <guid>http://localhost:1313/website/tags/shinrin-yoku/</guid>
       <description></description>
     </item>
     <item>
       <title>Training Course</title>
-      <link>http://localhost:1313/tags/training-course/</link>
+      <link>http://localhost:1313/website/tags/training-course/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/training-course/</guid>
+      <guid>http://localhost:1313/website/tags/training-course/</guid>
       <description></description>
     </item>
     <item>
       <title>Youth Work</title>
-      <link>http://localhost:1313/tags/youth-work/</link>
+      <link>http://localhost:1313/website/tags/youth-work/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/youth-work/</guid>
+      <guid>http://localhost:1313/website/tags/youth-work/</guid>
       <description></description>
     </item>
     <item>
       <title>Active Citizenship</title>
-      <link>http://localhost:1313/tags/active-citizenship/</link>
+      <link>http://localhost:1313/website/tags/active-citizenship/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/active-citizenship/</guid>
+      <guid>http://localhost:1313/website/tags/active-citizenship/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Skills</title>
-      <link>http://localhost:1313/tags/digital-skills/</link>
+      <link>http://localhost:1313/website/tags/digital-skills/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/digital-skills/</guid>
+      <guid>http://localhost:1313/website/tags/digital-skills/</guid>
       <description></description>
     </item>
     <item>
       <title>Entrepreneurship</title>
-      <link>http://localhost:1313/tags/entrepreneurship/</link>
+      <link>http://localhost:1313/website/tags/entrepreneurship/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/entrepreneurship/</guid>
+      <guid>http://localhost:1313/website/tags/entrepreneurship/</guid>
       <description></description>
     </item>
     <item>
       <title>Leadership</title>
-      <link>http://localhost:1313/tags/leadership/</link>
+      <link>http://localhost:1313/website/tags/leadership/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/leadership/</guid>
+      <guid>http://localhost:1313/website/tags/leadership/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainability</title>
-      <link>http://localhost:1313/tags/sustainability/</link>
+      <link>http://localhost:1313/website/tags/sustainability/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainability/</guid>
+      <guid>http://localhost:1313/website/tags/sustainability/</guid>
       <description></description>
     </item>
     <item>
       <title>Climate Action</title>
-      <link>http://localhost:1313/tags/climate-action/</link>
+      <link>http://localhost:1313/website/tags/climate-action/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/climate-action/</guid>
+      <guid>http://localhost:1313/website/tags/climate-action/</guid>
       <description></description>
     </item>
     <item>
       <title>Youth Participation</title>
-      <link>http://localhost:1313/tags/youth-participation/</link>
+      <link>http://localhost:1313/website/tags/youth-participation/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/youth-participation/</guid>
+      <guid>http://localhost:1313/website/tags/youth-participation/</guid>
       <description></description>
     </item>
     <item>
       <title>Civic Engagement</title>
-      <link>http://localhost:1313/tags/civic-engagement/</link>
+      <link>http://localhost:1313/website/tags/civic-engagement/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/civic-engagement/</guid>
+      <guid>http://localhost:1313/website/tags/civic-engagement/</guid>
       <description></description>
     </item>
     <item>
       <title>Facilitation</title>
-      <link>http://localhost:1313/tags/facilitation/</link>
+      <link>http://localhost:1313/website/tags/facilitation/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/facilitation/</guid>
+      <guid>http://localhost:1313/website/tags/facilitation/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,24 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ruben Costa</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/website/</link>
     <description>Recent content on Ruben Costa</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TheCrowDBot - AI to transform hand drawn E-R diagrams into a draw.io compatible format</title>
-      <link>http://localhost:1313/projects/thecrowdbot/</link>
+      <link>http://localhost:1313/website/projects/thecrowdbot/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/thecrowdbot/</guid>
+      <guid>http://localhost:1313/website/projects/thecrowdbot/</guid>
       <description>&lt;p&gt;TBD&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nature as a Mentor: Shinrin-yoku in Youth Work Practices</title>
-      <link>http://localhost:1313/erasmus/2026/tc/nature-as-mentor/</link>
+      <link>http://localhost:1313/website/erasmus/2026/tc/nature-as-mentor/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/erasmus/2026/tc/nature-as-mentor/</guid>
+      <guid>http://localhost:1313/website/erasmus/2026/tc/nature-as-mentor/</guid>
       <description>&lt;div class=&#34;project-meta&#34;&gt;
   &amp;nbsp; 
   &lt;div&gt;
@@ -45,7 +44,7 @@
 &lt;/div&gt;
 
 &lt;figure&gt;
-  &lt;img src=&#34;http://localhost:1313/images/erasmus/poland-2026/nature-as-a-mentor-cover.jpeg&#34;
+  &lt;img src=&#34;http://localhost:1313/website/images/erasmus/poland-2026/nature-as-a-mentor-cover.jpeg&#34;
        alt=&#34;Participants during the Nature as a Mentor training course&#34;&gt;
 &lt;/figure&gt;
 &lt;h2 id=&#34;about&#34;&gt;&lt;i class=&#34;fa-solid fa-circle-info&#34;&gt;&lt;/i&gt;  About&lt;/h2&gt;
@@ -54,9 +53,9 @@
     </item>
     <item>
       <title>Youth Accreditation Mobility</title>
-      <link>http://localhost:1313/erasmus/2026/ye/youth-accreditation-mobility/</link>
+      <link>http://localhost:1313/website/erasmus/2026/ye/youth-accreditation-mobility/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/erasmus/2026/ye/youth-accreditation-mobility/</guid>
+      <guid>http://localhost:1313/website/erasmus/2026/ye/youth-accreditation-mobility/</guid>
       <description>&lt;div class=&#34;project-meta&#34;&gt;
   &amp;nbsp; 
   &lt;div&gt;
@@ -87,9 +86,9 @@
     </item>
     <item>
       <title>Green Horizons: Youth for Sustainable Communities</title>
-      <link>http://localhost:1313/erasmus/2025/ye/green-horizons/</link>
+      <link>http://localhost:1313/website/erasmus/2025/ye/green-horizons/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/erasmus/2025/ye/green-horizons/</guid>
+      <guid>http://localhost:1313/website/erasmus/2025/ye/green-horizons/</guid>
       <description>&lt;div class=&#34;project-meta&#34;&gt;
   &amp;nbsp; 
   &lt;div&gt;
@@ -120,9 +119,9 @@
     </item>
     <item>
       <title>Youth Participa(c)tion</title>
-      <link>http://localhost:1313/erasmus/2025/tc/youth-participaction/</link>
+      <link>http://localhost:1313/website/erasmus/2025/tc/youth-participaction/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/erasmus/2025/tc/youth-participaction/</guid>
+      <guid>http://localhost:1313/website/erasmus/2025/tc/youth-participaction/</guid>
       <description>&lt;div class=&#34;project-meta&#34;&gt;
   &amp;nbsp; 
   &lt;div&gt;
